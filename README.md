@@ -23,7 +23,9 @@
 
 5) If you don't logout, you can directly 
    go to the dashboard page without  
-   login, untill you logout your profile.
+   login, until you logout your profile.
+
+6) I also authenticate the url routing.
 
 
 
