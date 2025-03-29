@@ -27,6 +27,9 @@
 
 6) I also authenticate the url routing.
 
+7) Dependencies : npm i bootstrap axios
+   react-router-dom
+
 
 
 Link : 
